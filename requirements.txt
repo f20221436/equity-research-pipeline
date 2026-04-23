@@ -1,0 +1,6 @@
+pandas==2.2.1
+numpy==1.26.4
+yfinance==0.2.37
+SQLAlchemy==1.4.52
+psycopg2-binary==2.9.9
+apache-airflow==2.8.3
